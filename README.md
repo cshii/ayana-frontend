@@ -1,6 +1,4 @@
-# Ayana May
-## the webpage 
-## vue frontend
+# Ayana May the Webpage 
 
 ## Project setup
 ```
